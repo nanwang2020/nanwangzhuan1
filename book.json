@@ -1,0 +1,12 @@
+    {
+    "plugins": [
+        "page-treeview"
+    ],
+    "pluginsConfig": {
+        "page-treeview": {
+            "copyright": "Copyright &#169; yy",
+            "minHeaderCount": "2",
+            "minHeaderDeep": "2"
+        }
+    }
+ }
